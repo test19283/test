@@ -1,10 +1,10 @@
 package de.Duc;
 
 public class LisaWork {
-  public String sayHello(){
+  public String sagHallo(){
 	  return "Hello";
   }
-  public String sayHelloagain(){
+  public String sagNochmalsHallo(){
 	  return "Hello again";
   }
 }
